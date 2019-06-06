@@ -1,13 +1,14 @@
 <aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
 	<!-- Add this component to an account record Lightning page -->
     <lightning:card title="Display, Create, or Edit Records">
-        <lightning:recordEditForm recordId="{!v.recordId}"
-                                  objectApiName="Account">
+        <lightning:recordEditForm recordId	= "{!v.recordId}"
+                                  objectApiName	= "Account">
             <lightning:messages />
             <lightning:inputField fieldName="Name" />
             <lightning:button class="slds-m-top_small" type="submit" label="Create new" />
         </lightning:recordEditForm>
-        <lightning:recordViewForm recordId="{!v.recordId}" objectApiName="Account">
+        <lightning:recordViewForm recordId	= "{!v.recordId}" 
+				  objectApiName = "Account">
             <lightning:messages />
             <lightning:outputField fieldName="Name" />
         </lightning:recordViewForm>
