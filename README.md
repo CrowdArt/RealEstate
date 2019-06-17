@@ -8,4 +8,3 @@
 * [Mike Belshe](https://en.wikipedia.org/wiki/Mike_Belshe)
 * [Paul Bohm](https://paulbohm.com/about/)
 * [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver)
-* 
