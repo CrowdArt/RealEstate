@@ -8,3 +8,4 @@
 * [Mike Belshe](https://en.wikipedia.org/wiki/Mike_Belshe)
 * [Paul Bohm](https://paulbohm.com/about/)
 * [Roger Ver](https://en.wikipedia.org/wiki/Roger_Ver)
+* [Set Up and Manage Salesforce Communities](https://help.salesforce.com/articleView?id=networks_overview.htm&type=0)
